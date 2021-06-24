@@ -1,4 +1,4 @@
-This is the README for my Steam data analysis project. Content is as follows:
+This is the README for my Steam data analysis project hosted on GitHub Pages. Content is as follows:
 
 Steam Analysis.ipnb - ipnb file of project.  
 Steam Analysis.pdf - pdf of project.  
