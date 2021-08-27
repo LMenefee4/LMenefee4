@@ -7,3 +7,4 @@ ssdata_page1.json - first page of  data scraped from SteamSpy.
 ssdata_8pages.json - 8 pages of data scraped from SteamSpy.  
 steam_data.json - all data scraped from Steam.  
 steam_data_p0.json - first page of data scraped from Steam, includes some data not in steam_data.json.  
+steam.csv - data obtained by Nik Davis from Steam in May of 2019. Includes data on ~27000 games.
